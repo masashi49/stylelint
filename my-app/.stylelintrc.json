@@ -1,0 +1,1 @@
+{\n\t"extends": ["stylelint-config-standard", "stylelint-config-idiomatic-order", "stylelint-prettier/recommended"]\n}
